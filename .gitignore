@@ -1,0 +1,6 @@
+# .net6 gitignore
+
+bin/
+obj/
+.vs
+```
